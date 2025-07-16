@@ -66,6 +66,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/YomnaY/YomnaY/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/YomnaY/output/snake.svg" alt="Snake animation" />
 
 ###
